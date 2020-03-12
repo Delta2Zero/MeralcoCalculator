@@ -1,2 +1,6 @@
 # MeralcoCalculator
 Calculating total kilowatt hour usage per day of the device and and how much it cost
+originally written in c/c++ then used a free converter to c#
+because i'm too lazy to recalculate all those charges that the electric company charges me...
+
+this is a simple console application...
